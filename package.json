@@ -1,0 +1,17 @@
+{
+  "name": "five-tc-gen",
+  "version": "1.0.0",
+  "description": "",
+  "main": "five.js",
+  "scripts": {
+    "start": "node five.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "canvas": "^2.11.0",
+    "discord.js": "^14.7.1",
+    "fs": "^0.0.1-security"
+  }
+}
