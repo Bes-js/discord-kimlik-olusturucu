@@ -1,7 +1,7 @@
 # Discord Kimlik Oluşturucu
 
-**( ❗ Önemli Bilgi: Kullanılan Fotoğraflar İnternetten Alınmış Olup Bilgiler Gerçek Değildir, Eğlence Amaçlı Yapılmıştır, Kullanılan Herşey Gerçeklik Dışıdır Kullanan Kişiler İle Herhangi Bir bağlantım Bulunmamakla,Kötü Amaç Gütmeyen Eğlence İçin Yapılmış Bir Canvas Örneğidir!)**
-Discord Botu Aracılığı İle Rastgele Girdiğiniz Bilgilerde Kimlik Oluşturan Bot
+- **( ⚠️ Önemli Bilgi: Kullanılan Fotoğraflar İnternetten Alınmış Olup Bilgiler Gerçek Değildir, Eğlence Amaçlı Yapılmıştır, Kullanılan Herşey Gerçeklik Dışıdır Kullanan Kişiler İle Herhangi Bir bağlantım Bulunmamakla,Kötü Amaç Gütmeyen Eğlence İçin Yapılmış Bir Canvas Örneğidir!)**
+- Discord Botu Aracılığı İle Rastgele Girdiğiniz Bilgilerde Kimlik Oluşturan Bot
 
   
 
